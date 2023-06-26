@@ -1,6 +1,5 @@
 # Intent Recognition
-This project is an intent recognition system that uses Natural Language Processing (NLP) techniques to identify the intent of a user's input. The system takes user input in the form of text and classifies it into one of several pre-defined categories, or "intents". The intents can be used to trigger specific actions, such as querying a database or providing a response to the user.
-
+This project is an intent recognition system that uses Natural Language Processing (NLP) techniques to identify the intent of a user's input. The system takes user input in the form of text and classifies it into one of several pre-defined categories, or "intents".
 ## Dataset
 The dataset used for this project is the Hamrah Aval questions dataset, which is about 4,400 questions in the Farsi language, with 11 pre-defined intents.
 
